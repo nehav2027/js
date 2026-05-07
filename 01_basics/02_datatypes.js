@@ -11,7 +11,8 @@ let age=18 // NUMBER DATATYPE
 let isloggedin= True // BOOLEAN DATATYPE
 
 // number = 2 to the power of 52
-// bigint - Large numbers, Trading, Stock Market
+// bigint - Large numbers, Trading, Stock Market, scientific values
+           // typeof bigint is undefined
 // string - Single or Double quote
 // boolean - true / false
 // undefined : let state; 
@@ -23,3 +24,15 @@ let isloggedin= True // BOOLEAN DATATYPE
 // object
 
 console.log(typeof "Neha");
+
+/*Number =>     number
+String  =>        string
+Boolean  =>    boolean
+null  =>             object
+undefined  =>  undefined
+Symbol  =>      symbol
+BigInt  =>         bigint
+
+Arrays  =>       object
+Function  =>  function
+Object  =>       object */
