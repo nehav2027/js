@@ -39,7 +39,39 @@ const bignumber= 234567897654324567897654345678n
 
 function */
 
-const myfunction  = function(){
+/*const myfunction  = function(){
     console.log("Hello World!");
     
 }
+------------------------------------------------------------------------------------------
+
+STACK MEMORY  (Used in Primitive datatypes)
+= We get a copy of variable declared
+
+HEAP MEMORY (Used in Non Primitive datatype)*/
+
+
+
+/*let myytname = "nehav2027"
+
+let anothername = myytname     
+anothername ="chaiaurcode"
+console.log(anothername);
+console.log(myytname);
+
+let userone ={
+    name: "Viha",
+    upi : "user@ybl"
+}
+
+let usertwo = userone
+
+usertwo.upi = "viha@ybl"
+
+console.log(userone.upi);
+console.log(usertwo.upi);*/
+
+
+
+
+
