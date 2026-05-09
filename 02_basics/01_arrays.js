@@ -1,5 +1,6 @@
-/*An array is used to store multiple values in a single variable.
-ORDERED, INDEXED AND MUTABLE
+/* 
+// An array is used to store multiple values in a single variable.
+// ORDERED, INDEXED AND MUTABLE
 
 const myarray = [0,1,2,3,4,5, true, "Neha"]
 
@@ -10,7 +11,7 @@ const myheros = ["Spiderman", "Batman"]
 const myarr = new Array(0,1,2,3,4,5)
 console.log(myarr[1]);
 
-METHODS IN ARRAY
+// METHODS IN ARRAY
 
 console.log(myarr.push(6))
 
@@ -25,8 +26,8 @@ console.log(myarr);
 console.log(newArr);
 
 
-*********************************************************************************************************
-SLICE AND SPLICE
+// *********************************************************************************************************
+// SLICE AND SPLICE
 
 console.log("A", myarr);
 

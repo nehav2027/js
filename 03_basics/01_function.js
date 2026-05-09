@@ -1,5 +1,6 @@
-/*FUNCTION = A function in JavaScript is a block of code that performs a specific task.
-Instead of writing the same code again and again, we put it inside a function and call it whenever needed.
+/*
+// FUNCTION = A function in JavaScript is a block of code that performs a specific task.
+// Instead of writing the same code again and again, we put it inside a function and call it whenever needed.
 
 function myfunc(){
     console.log("N");
