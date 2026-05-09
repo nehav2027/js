@@ -1,4 +1,4 @@
-// const tinderuser = new Object()
+/*// const tinderuser = new Object()
 
 const tinderuser = {}
 
@@ -81,4 +81,4 @@ console.log(courseinstructor);
     {},
     {}
 ]
-
+*/
