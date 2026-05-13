@@ -6,8 +6,8 @@ console.log(3+3);
 
 console.log("Neha");
 
-let name="Neha" // STRING DATATYPE
-let age=18 // NUMBER DATATYPE
+let name="Neha"      // STRING DATATYPE
+let age=18           // NUMBER DATATYPE
 let isloggedin= True // BOOLEAN DATATYPE
 
 // number = 2 to the power of 52
