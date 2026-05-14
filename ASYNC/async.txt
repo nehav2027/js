@@ -1,0 +1,18 @@
+javascript = Synchronous, Single Threaded
+
+Execution context = execute one line of code at a time 
+
+Each operation waits for the last one to complete before executing 
+
+console.log 1
+console.log 2
+
+BLOCKING CODE V/S NON BLOCKING CODE
+
+Blocking Code:-
+block the flow of program
+Read file sync
+
+Non Blocking Code:-
+Does not block Execution
+Read file async
