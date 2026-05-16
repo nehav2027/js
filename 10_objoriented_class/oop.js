@@ -25,5 +25,10 @@ function User (username, logincount,isloggedin){
 
 }
 
-const userOne = User("Neha", 10, true)
+const userOne = new User("Neha", 10, true)
+const userTwo = new User("Viha", 12, true)
+
+console.log(userOne);
+console.log(userTwo);
+
 
